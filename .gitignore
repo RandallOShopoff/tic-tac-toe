@@ -8,11 +8,11 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-dist
 dist-ssr
 *.local
 vite
 vite.config.ts
+.vite
 
 # Editor directories and files
 .vscode/*
